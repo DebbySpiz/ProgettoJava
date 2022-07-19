@@ -1,3 +1,7 @@
+package devskill.school.main;
+
+import devskill.school.utility.Calcolatrice;
+
 import java.util.Scanner;
 
 public class ArithmeticalOperation {

@@ -1,4 +1,6 @@
-import java.util.Arrays;
+package devskill.school.main;
+import devskill.school.utility.Grades;
+
 import java.util.Scanner;
 
 public class Convertitore {

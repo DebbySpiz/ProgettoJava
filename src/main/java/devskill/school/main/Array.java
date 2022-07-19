@@ -1,7 +1,12 @@
+package devskill.school.main.Vector;
+
+import devskill.school.utility.Vector;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class mainArray {
+
+public class Array {
    public static void main (String[] args){
 
       ArrayList<Integer> array = new ArrayList<>(Arrays.asList(3,6,2,64,357,8,1));

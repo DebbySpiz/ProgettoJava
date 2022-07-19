@@ -1,3 +1,5 @@
+package devskill.school.main;
+
 import java.util.Scanner;
 
 public class ConcatenaDati {

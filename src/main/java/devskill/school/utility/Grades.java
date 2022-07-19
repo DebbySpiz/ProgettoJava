@@ -1,3 +1,5 @@
+package devskill.school.utility;
+
 import java.util.Scanner;
 
 public class Grades {
